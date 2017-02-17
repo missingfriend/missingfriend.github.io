@@ -1,0 +1,4 @@
+---
+slug: cheap
+name: cheap
+---
