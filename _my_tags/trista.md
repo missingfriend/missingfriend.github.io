@@ -1,0 +1,4 @@
+---
+slug: trista
+name: trista
+---

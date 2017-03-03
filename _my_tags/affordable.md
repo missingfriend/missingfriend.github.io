@@ -1,0 +1,4 @@
+---
+slug: affordable
+name: affordable
+---
