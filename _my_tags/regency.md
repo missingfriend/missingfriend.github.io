@@ -1,0 +1,4 @@
+---
+slug: regency
+name: regency
+---
