@@ -1,0 +1,4 @@
+---
+slug: luxury
+name: luxury
+---
