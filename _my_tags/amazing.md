@@ -1,0 +1,4 @@
+---
+slug: amazing
+name: amazing
+---
