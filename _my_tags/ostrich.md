@@ -1,0 +1,4 @@
+---
+slug: ostrich
+name: ostrich
+---
