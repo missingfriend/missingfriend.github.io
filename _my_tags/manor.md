@@ -1,0 +1,4 @@
+---
+slug: manor
+name: manor
+---
