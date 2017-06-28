@@ -1,0 +1,4 @@
+---
+slug: away
+name: away
+---
